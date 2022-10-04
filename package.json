@@ -1,0 +1,23 @@
+{
+  "name": "js-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mhamad-Raad/Js-Testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mhamad-Raad/Js-Testing/issues"
+  },
+  "homepage": "https://github.com/Mhamad-Raad/Js-Testing#readme",
+  "devDependencies": {
+    "jest": "^29.1.2"
+  }
+}
